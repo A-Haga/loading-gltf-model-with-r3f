@@ -1,2 +1,2 @@
-# r3f-loading-gltf-models-with-textures
+# loading-gltf-model-with-r3f
 Created with CodeSandbox
